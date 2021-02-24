@@ -1,0 +1,25 @@
+
+
+body{
+  background-color: #e3e3e3;
+}
+h1{
+   color: #2658e0;
+}
+h3{
+  color: #2658e0;
+  text-decoration: underline;
+text-shadow: #FC0 1px 0px 10px;
+}
+
+
+hr{
+  border-top: dotted 10px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  background-color: #e3e3e3;
+  height: 10%;
+  width: 10%;
+border-top-color: #2658e0;
+}
